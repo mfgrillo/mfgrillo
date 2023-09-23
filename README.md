@@ -9,7 +9,7 @@
 </div>
 
 <h1>
-  Hello! 👋 I'm Marcos, a neuropsychologist turned Data Scientist from Argentina :argentina:
+  Hello! 👋 I'm Marcos, a neuropsychologist turned Data Scientist from Argentina 🇦🇷. I have a Master's Degree in Analytics from Georgia Tech 🍑, as well as a Master's in Cognitive Psychology from Favaloro University, in Buenos Aires 🧉.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
