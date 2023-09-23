@@ -17,6 +17,14 @@
 
 ### :man_technologist: About Me :
 
+- 🍑 Data Scientist, Master's in Analytics from Georgia Tech.
+- 🧠 Neuropsychologist, Master's in Cognitive Psychology from Favaloro University, Buenos Aires 🧉.
+- My Experience:
+-- 🥼 Research Assistant in Neuroscience
+-- 👔 Software Consultant/Project Manager
+-- 📈 Digital Marketing Data Analyst/Engineer
+
+
 <!--
 Hi there 👋
 **mfgrillo/mfgrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
