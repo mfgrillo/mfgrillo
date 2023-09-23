@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/USEllQl.gif" width="200"/>
 </div>
+https://img.shields.io/badge/LinkedIn-blue
 <!--
 Hi there 👋
 **mfgrillo/mfgrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
