@@ -9,7 +9,7 @@
 </div>
 
 <h1>
-  hey there
+  Hello! 👋 I'm Marcos, a neuropsychologist turned Data Scientist from Argentina :argentina:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
