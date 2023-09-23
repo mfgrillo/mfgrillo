@@ -20,9 +20,9 @@
 - 🍑 Data Scientist, Master's in Analytics from Georgia Tech.
 - 🧠 Neuropsychologist, Master's in Cognitive Psychology from Favaloro University, Buenos Aires 🧉.
 - My Experience:
--- 🥼 Research Assistant in Neuroscience
--- 👔 Software Consultant/Project Manager
--- 📈 Digital Marketing Data Analyst/Engineer
+  - 🥼 Research Assistant in Neuroscience
+  - 👔 Software Consultant/Project Manager
+  - 📈 Digital Marketing Data Analyst/Engineer
 
 
 <!--
