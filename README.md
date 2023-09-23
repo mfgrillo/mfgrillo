@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ws9ksgMH6nbGemB3Yh/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/Ws9ksgMH6nbGemB3Yh/giphy.gif" width="200"/>
 </div>
 <!--
 **mfgrillo/mfgrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
