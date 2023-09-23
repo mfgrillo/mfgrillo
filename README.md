@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 <div id="header" align="center">
   <img src="https://i.imgur.com/USEllQl.gif" width="200"/>
 </div>
