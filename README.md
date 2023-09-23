@@ -9,7 +9,7 @@
 </div>
 
 <h1>
-  Hello! 👋 I'm Marcos.
+  Hello! 👋 I'm Marcos
 </h1>
 
 ---
