@@ -1,8 +1,8 @@
-Hi there 👋
 <div id="header" align="center">
   <img src="https://i.imgur.com/USEllQl.gif" width="200"/>
 </div>
 <!--
+Hi there 👋
 **mfgrillo/mfgrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
