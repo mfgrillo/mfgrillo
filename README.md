@@ -21,9 +21,18 @@
   - 🍑 Data Scientist, Master's in Analytics from Georgia Tech.
   - 🧠 Neuropsychologist, Master's in Cognitive Psychology from Favaloro University, Buenos Aires 🧉.
 - My Experience:
-  - 🥼 Research Assistant in Neuroscience
-  - 👔 Software Consultant/Project Manager
-  - 📈 Digital Marketing Data Analyst/Engineer
+  - 🥼 Research Assistant in Neuroscience.
+  - 👔 Software Consultant/Project Manager.
+  - 📈 Digital Marketing Data Analyst/Engineer.
+  - 🏡 Data Science Graduate Intern @ Liberty Mutual.
+- Hobbies:
+  - 🥋 Blackbelt in Taekwondo, former instructor.
+  - 🎴 Strategy and Card game enthusiast, competed semi-professionally.
+  - 🎿 Former Ski Instructor.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 
 <!--
