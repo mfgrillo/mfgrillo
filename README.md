@@ -54,7 +54,7 @@
 
 <br>
 
-If you'd like to see an example of my work, please take a look at my personal projects! One I am very proud of is a recent effort to perform sentiment analysis on my own messages from Facebook and Instagram. You can find it ![here](https://github.com/mfgrillo/meta-messages-sentiment-analysis).
+# If you'd like to see an example of my work, please take a look at my personal projects! One I am very proud of is a recent effort to perform sentiment analysis on my own messages from Facebook and Instagram. You can find it [here](https://github.com/mfgrillo/meta-messages-sentiment-analysis).
 
 <!--
 Hi there 👋
