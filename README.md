@@ -21,9 +21,9 @@
   - 🧠 Neuropsychologist, Master's in Cognitive Psychology from Favaloro University, Buenos Aires 🧉.
 - My Experience:
   - 🏡 Data Scientist @ Liberty Mutual.
-  - 🥼 Research Assistant in Neuroscience.
-  - 📈 Digital Marketing Data Analyst/Engineer.
-  - 👔 Software Consultant/Project Manager.
+  - 🥼 Former Research Assistant in Neuroscience at a leading lab in Buenos Aires.
+  - 📈 Former Digital Marketing Data Analyst/Engineer @ Rise Interactive.
+  - 👔 Former Software Consultant/Project Manager @ Avature.
 
 - Hobbies:
   - 🥋 Blackbelt in Taekwondo, former instructor.
