@@ -54,7 +54,7 @@
 
 <br>
 
-If you'd like to see an example of my work, please take a look at my personal projects! One I am very proud of is a recent effort to perform sentiment analysis on my own messages from Facebook and Instagram. You can find it [here](https://github.com/mfgrillo/meta-messages-sentiment-analysis).
+If you'd like to see an example of my work, please take a look at my personal projects! One I am very proud of is a tool I developed to take the fun out of improve my returns on investment playing Guild Wars 2, a Massive Multiplayer Online Roleplaying Game! I'm a strong believer in building things you find fun, and I think this project reflected that intent perfectly. You can find it [here](https://github.com/mfgrillo/Trading_Post_Scanner).
 
 <!--
 Hi there 👋
