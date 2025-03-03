@@ -60,7 +60,8 @@ For a more "data science" oriented project, [please slide into my DM's take a lo
 # My Portfolio
 
 ## Resume
-<iframe src="https://docs.google.com/document/d/1s6xLePahygk0yhByexjzCKnQ0HPoobUvgj7T-NhSfUg/edit?usp=sharing&embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+### Option 1: Embed PDF
+<iframe src="https://docs.google.com/viewer?url=https://github.com/mfgrillo/mfgrillo/blob/main/Resume___Marcos_Grillo.pdf&embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
 
 <!--
 Hi there 👋
