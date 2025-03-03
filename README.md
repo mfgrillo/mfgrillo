@@ -57,11 +57,7 @@ If you'd like to see an example of my work, please take a look at my personal pr
 
 For a more "data science" oriented project, [please slide into my DM's take a look at the results of running a sentiment analysis over my Facebook and Instagram messages](https://github.com/mfgrillo/meta-messages-sentiment-analysis)!
 
-# My Portfolio
-
-## Resume
-### Option 1: Embed PDF
-<iframe src="https://docs.google.com/viewer?url=https://github.com/mfgrillo/mfgrillo/blob/main/Resume___Marcos_Grillo.pdf&embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+To view my full resume, [please click here](https://drive.google.com/file/d/1gP3XH9MNAqyY9wKO1Cax88CP4a7fydMC/view?usp=sharing).
 
 <!--
 Hi there 👋
