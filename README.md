@@ -57,6 +57,11 @@ If you'd like to see an example of my work, please take a look at my personal pr
 
 For a more "data science" oriented project, [please slide into my DM's take a look at the results of running a sentiment analysis over my Facebook and Instagram messages](https://github.com/mfgrillo/meta-messages-sentiment-analysis)!
 
+# My Portfolio
+
+## Resume
+<iframe src="https://docs.google.com/document/d/1s6xLePahygk0yhByexjzCKnQ0HPoobUvgj7T-NhSfUg/edit?usp=sharing&embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+
 <!--
 Hi there 👋
 **mfgrillo/mfgrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
