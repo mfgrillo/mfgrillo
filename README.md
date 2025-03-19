@@ -17,8 +17,8 @@
 ### :man_technologist: About Me :
 
 - My Education:
-  - 🍑 Data Scientist, Master's in Analytics from Georgia Tech.
-  - 🧠 Neuropsychologist, Master's in Cognitive Psychology from Favaloro University, Buenos Aires 🧉.
+  - 🍑 Data Science, Master's in Analytics from Georgia Tech.
+  - 🧠 Neuropsychology, Master's in Cognitive Psychology from Favaloro University, Buenos Aires 🧉.
 - My Experience:
   - 🏡 Data Scientist @ Liberty Mutual.
   - 🥼 Former Research Assistant in Neuroscience at a leading lab in Buenos Aires.
