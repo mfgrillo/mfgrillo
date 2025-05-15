@@ -29,6 +29,7 @@
   - 🥋 Blackbelt in Taekwondo, former instructor.
   - 🎴 Strategy and Card game enthusiast, competed semi-professionally.
   - 🎿 Former Ski Instructor.
+  - 🎭 Improv Enthusiast.
 
 ---
 
