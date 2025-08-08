@@ -57,5 +57,3 @@
 If you'd like to see an example of my work, please take a look at my personal projects! One I am very proud of is a tool I developed to take the fun out of improve my returns on investment playing Guild Wars 2, a Massive Multiplayer Online Roleplaying Game! I'm a strong believer in building things you find fun, and I think this project reflected that intent perfectly. You can find it [here](https://github.com/mfgrillo/Trading_Post_Scanner).
 
 Otherwise, [please slide into my DM's take a look at the results of running a sentiment analysis over my Facebook and Instagram messages](https://github.com/mfgrillo/meta-messages-sentiment-analysis)!
-
-[You can find my full resume here.](https://drive.google.com/file/d/1gP3XH9MNAqyY9wKO1Cax88CP4a7fydMC/view?usp=sharing)
